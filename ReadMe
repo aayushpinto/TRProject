@@ -1,2 +1,2 @@
 This is Watson, IBM’s Question Answering system for the Jeopardy trivia game.
-Using Stemming and Lemmatization and Dirichlet Similarity, the P@1 score is 23/100. This is the best score among many variations.
+Using Stemming and Lemmatization, and Dirichlet Similarity, the P@1 score is 23/100. This is the best score among many variations.
